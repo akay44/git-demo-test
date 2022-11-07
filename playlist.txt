@@ -5,11 +5,8 @@
 "Addicted To the Game" (2001)
 "Ain't I" (2008)
 
-<<<<<<< HEAD
-laptop change
 
-Taylor Swift - Bad Blood
-=======
+
 Relaxing Songs
 
 1. Louis Armstrong - What A Wonderful World
@@ -22,4 +19,4 @@ Relaxing Songs
 8. Enya - Orinoco Flow
 9. Cat Stevens - Morning Has Broken
 10. U2 - Beautiful Day
->>>>>>> relaxing
+
